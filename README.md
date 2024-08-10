@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Joyce da Cunha Silva, Estudante de Desenvolvimento de Sistemas pela Etec. Atualmente estou aprendendo JavaScript, HTML, CSS, C#, JAVA e PHP.</h2>
+<h2 align="left">Olá 👋! Meu nome é Joyce da Cunha Silva, Estudante de Desenvolvimento de Sistemas pela Etec. Atualmente estou aprendendo JavaScript, HTML, CSS, C#, JAVA e PHP.</h2>
 
 ###
 
