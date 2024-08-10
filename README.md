@@ -49,5 +49,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Joycecs07/Joycecs07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/Joycecs07/Joycecs07/blob/output/github-snake.svg" alt="Snake animation" />
+
 
